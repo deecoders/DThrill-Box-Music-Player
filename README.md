@@ -1,2 +1,8 @@
 # DThrill-Box-Music-Player
-It allows an user to enjoy listening to songs along with dynamic graphics and had an unique feature of you tubing the current song and also gets the lyrics of current song
+# Abstract
+It is basically a simple music player android application which can automatically read all the audio files from the mobile device directory dyamically and display them in list view to be available to be played by the user on wish with additional features of online lyrics finding  and Youtube search of the current played song.
+# Introduction
+This moblie application was developed in order to make music listening a bit more interesting for the end users with use of good graphics.
+Apart from normal song playing it has been provided with additional task of searching the lyrics of the current playing song and related to that on the web through google on click while song continues to play in background.It can also bring the video (if present) of the audio file on Youtube on click.
+# Technical Approach
+This android application is supported for target android SDK version 22 and has been fully developed in Android Studio platform without any use of API and external libraries.
